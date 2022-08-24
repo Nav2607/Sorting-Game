@@ -59,7 +59,7 @@ class Form{
         this.instructions2.style('font-family', 'cursive');
         this.instructions2.style('color', 'orange');
         this.instructions3.html("→ Aviod items that go in the garbage or compost"); 
-        this.instructions3.position(200,345); 
+        this.instructions3.position(200,355); 
         this.instructions3.style('font-family', 'cursive');
         this.instructions3.style('color', 'orange');
         this.reset.hide();
